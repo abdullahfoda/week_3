@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1708697412 source:c:\users\foda\downloads\my-github\week_3\hack_2\main.c
+	<stdio.h>
+	<string.h>
+	<math.h>
+	<stdlib.h>
+

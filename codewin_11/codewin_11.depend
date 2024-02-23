@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1708691569 source:c:\users\foda\downloads\my-github\week_3\codewin_11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
